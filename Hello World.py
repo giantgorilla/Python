@@ -44,7 +44,7 @@ print(b)
 # FQA 
 # What does it mean string ? String data type is traditionally a sequence of characters, either as a literal constant or as some kind of variable
 # When does it work "\n for us? If u want to leave a space you can use this symbol.
-# If u read it here thanks to u, i hope i helped to you!
+# Thank you for reading this far, I hope I was able to help.
 
                                                                       #TR
 
